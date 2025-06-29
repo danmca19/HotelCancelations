@@ -87,9 +87,6 @@ The dataset (`hotel.csv`) contains detailed information about hotel bookings. Ke
 | **Recall (Canceled)**    | 81.53%   |
 | **F1 Score (Canceled)**  | 85.28%   |
 
-#### Confusion Matrix:
-           Predicted
-           0     1
 
 ---
 
@@ -131,6 +128,25 @@ Use model predictions to:
 - Adjust cancellation policies for segments with consistently high cancellation rates
 
 ---
+## 📌 Strategic Recommendations
+
+| Factor               | Insight                                 | Action                             |
+|----------------------|------------------------------------------|------------------------------------|
+| Lead Time            | High risk with long booking windows      | Stricter cancellation policies     |
+| Online Segment       | High cancellation rate                   | Require pre-payment or confirmation |
+| Special Requests     | Indicate commitment                      | Offer small perks to encourage     |
+| Guest History        | Strong predictor of behavior             | Adjust rules for risky profiles    |
+| Price Extremes       | Both high and low values risky           | Limit flexibility for cheap rates  |
+
+---
+
+## ✅ Benefits
+
+- 🎯 Predict high-risk bookings and act early
+- 💰 Optimize pricing and overbooking
+- 📊 Improve staff and inventory planning
+- 🤝 Build loyalty with reliable guests
+
 
 ## 🔮 Next Steps
 
