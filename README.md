@@ -157,7 +157,5 @@ Use model predictions to:
 - 📈 **Time Series Extension**: Capture seasonality
 - 🌐 **Model Deployment**: Flask API or cloud-based serving for real-time predictions
 
----
 
-## 📁 Repository Structure
 
