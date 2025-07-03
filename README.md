@@ -147,6 +147,38 @@ Use model predictions to:
 - 📊 Improve staff and inventory planning
 - 🤝 Build loyalty with reliable guests
 
+## 📌 Project Parameters (based on real dataset)
+
+| Item                                       | Value           |
+| ----------------------------------------- | --------------- |
+| Total bookings analyzed                   | 39,142          |
+| Total cancellations identified            | 11,885          |
+| **Average cost per avoidable cancellation** | R$ 3,500.00     |
+| **Estimated project cost**                | R$ 150,000.00   |
+
+---
+
+## 📐 ROI Formula
+
+\[
+\text{ROI} = \frac{\text{Net Return}}{\text{Total Project Cost}} \times 100
+\]
+
+Where:
+
+- **Net Return** = Estimated savings from avoided cancellations – Project cost  
+- **Total Project Cost** = Financial investment required for model development, testing, and deployment
+
+---
+
+## 📊 ROI Scenarios
+
+| Scenario         | Total Cancellations | Avoided Cancellations | Estimated Savings (R$) | Project Cost (R$) | ROI (%)       |
+| ---------------- | ------------------- | ---------------------- | ----------------------- | ------------------ | ------------- |
+| Conservative (5%)| 11,885              | 594                    | R$ 2,079,875.00         | R$ 150,000         | **1286.58%**  |
+| Moderate (10%)   | 11,885              | 1,188                  | R$ 4,159,750.00         | R$ 150,000         | **2673.17%**  |
+| Optimistic (20%) | 11,885              | 2,377                  | R$ 8,319,500.00         | R$ 150,000         | **5446.33%**  |
+
 
 ## 🔮 Next Steps
 
