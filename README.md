@@ -160,9 +160,7 @@ Use model predictions to:
 
 ## 📐 ROI Formula
 
-\[
-\text{ROI} = \frac{\text{Net Return}}{\text{Total Project Cost}} \times 100
-\]
+ROI= Net Return / Total Project Cost × 100
 
 Where:
 
