@@ -137,20 +137,10 @@ These features can be used to flag risky bookings or segment customers for diffe
 
 ## ✅ Benefits Summary
 
-- 🧠 Better understanding of guest behavior
-- 🎯 Precise targeting of risky bookings
-- 💰 Potential revenue retention when scaled
-- 📊 Enhanced KPIs: occupancy rate, cancellation %, operational margin
-
----
-
-## 📈 Next Steps
-
-- 🔍 Tune hyperparameters with `GridSearchCV`
-- 📉 Handle class imbalance with SMOTE
-- ⚙️ Build a daily prediction pipeline
-- 📢 Deploy via Flask API or integrate with CRM tools
-- 📊 Create monitoring dashboard in Power BI or Looker
+-  Better understanding of guest behavior
+-  Precise targeting of risky bookings
+-  Potential revenue retention when scaled
+-  Enhanced KPIs: occupancy rate, cancellation %, operational margin
 
 ---
 
@@ -164,5 +154,6 @@ Even when ROI appears modest or negative at first glance, the **strategic value 
 - Laying the groundwork for broader **data-driven operations** in hospitality
 
 If scaled smartly, even a few percentage points in cancellation avoidance can justify the investment over time.
+
 
 
